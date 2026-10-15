@@ -1,0 +1,9 @@
+{
+  "version": "v2.1",
+  "date": "2026-08-26",
+  "build": "20260826-001",
+  "file": "smart-brew-v2.1.bin",
+  "size": 2818976,
+  "crc32": "60d39ba4",
+  "notes": "- Add online firmware check from GitHub\n- Show update notes on Settings\n- Prompt once per session when a new version is available\n- Verify update by waiting for the device to come back online"
+}
